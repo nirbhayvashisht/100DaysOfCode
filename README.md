@@ -16,3 +16,8 @@
     - Completed ES6
 - Started building a pomodoro clock for personal use.
 - Started with Fundamentals of Computer Networking.
+
+## <center>Day 2, 31 August 2020</center>
+- Read [MDN JavaScript Docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide)
+- Read Computer Networking book.
+- Found some computer networking resources.
