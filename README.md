@@ -21,3 +21,28 @@
 - Read [MDN JavaScript Docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide)
 - Read Computer Networking book.
 - Found some computer networking resources.
+
+### <center>Day 3, 1 September 2020</center>
+- Read [MDN JavaScript Docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide)
+- Read Computer Networking - A Top Down Approach.
+- freeCodeCamp's [JavaScript Algorithms and Data Structures Certification](https://www.freecodecamp.org/learn/) 
+    - Completed Debugging
+
+### <center>Day 4, 2 September 2020</center>
+- Read Computer Networking - A Top Down Approach.
+- Read [MDN JavaScript Docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide)
+- freeCodeCamp's [JavaScript Algorithms and Data Structures Certification](https://www.freecodecamp.org/learn/) 
+    - Completed Basic Data Structures
+
+### <center>Day 5, 3 September 2020</center>
+- Read Computer Networking - A Top Down Approach.
+- Spent time with family
+
+### <center>Day 6, 4 September 2020</center>
+- Read Computer Networking - A Top Down Approach.
+- Spent time with family
+
+### <center>Day 7, 5 September 2020</center>
+- Read Computer Networking - A Top Down Approach.
+- Had to re-plan the road-map (taking college variable into count)
+- Worked on my YouTube Setup.
