@@ -46,3 +46,18 @@
 - Read Computer Networking - A Top Down Approach.
 - Had to re-plan the road-map (taking college variable into count)
 - Worked on my YouTube Setup.
+
+### <center>Day 8, 6 September 2020</center>
+- Completed the Pomodoro Clock
+
+### <center>Day 9, 7 September 2020</center>
+### <center>Day 10, 8 September 2020</center>
+### <center>Day 11, 9 September 2020</center>
+### <center>Day 12, 10 September 2020</center>
+Worked on and completed a course on Time Management
+![Time Management Fundamentals Certificate](https://dev-to-uploads.s3.amazonaws.com/i/a4g7oeqw7zyifjnm7fcd.png)
+
+### <center>Day 13, 11 September 2020</center>
+Started with freeCodeCamp's Responsive Web Design Certification
+- Completed Basic HTML and HTML5
+- Started with Basic CSS
