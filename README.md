@@ -61,3 +61,20 @@ Worked on and completed a course on Time Management
 Started with freeCodeCamp's Responsive Web Design Certification
 - Completed Basic HTML and HTML5
 - Started with Basic CSS
+
+### <center>Day 14, 12 September 2020</center>
+### <center>Day 15, 13 September 2020</center>
+### <center>Day 16, 14 September 2020</center>
+### <center>Day 17, 15 September 2020</center>
+### <center>Day 18, 16 September 2020</center>
+### <center>Day 19, 17 September 2020</center>
+### <center>Day 20, 18 September 2020</center>
+- freeCodeCamp's Responsive Web Design Certification
+    - Basic CSS done
+    - Applied Visual Design done
+    - Applied Accessibility done
+    - Responsive Web Design Principles done
+    - CSS Flexbox done
+    - CSS Grid done
+- Started with a Adobe Premier Pro Course
+
