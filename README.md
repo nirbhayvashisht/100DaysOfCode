@@ -1,4 +1,4 @@
-# 100DaysOfCode Journey Documentation
+<h1 align="center">100DaysOfCode Journey Documentation</h1>
 > I've been programming for over 5 years for fun :man_technologist: (Not for money &#128176;)<br>
 > I joined CS Engineering because the idea of engineering intrigued me.<br>
 > I am in the final year of my engineering degree and I have finally decided what I want to do with my life.<br>
@@ -54,8 +54,12 @@
 ### <center>Day 10, 8 September 2020</center>
 ### <center>Day 11, 9 September 2020</center>
 ### <center>Day 12, 10 September 2020</center>
+<div align="center">
+    
 Worked on and completed a course on Time Management
-![Time Management Fundamentals Certificate](https://dev-to-uploads.s3.amazonaws.com/i/a4g7oeqw7zyifjnm7fcd.png)
+![Time Management Fundamentals Certificate](https://github.com/nirbhayvashisht/my-quarantine/blob/master/Resources/CertificateOfCompletion_Time%20Management%20Fundamentals.jpg)
+
+</div>
 
 ### <center>Day 13, 11 September 2020</center>
 Started with freeCodeCamp's Responsive Web Design Certification
@@ -70,11 +74,38 @@ Started with freeCodeCamp's Responsive Web Design Certification
 ### <center>Day 19, 17 September 2020</center>
 ### <center>Day 20, 18 September 2020</center>
 - freeCodeCamp's Responsive Web Design Certification
-    - Basic CSS done
-    - Applied Visual Design done
-    - Applied Accessibility done
-    - Responsive Web Design Principles done
-    - CSS Flexbox done
-    - CSS Grid done
+    - [x] Basic CSS done
+    - [x] Applied Visual Design done
+    - [x] Applied Accessibility done
+    - [x] Responsive Web Design Principles done
+    - [x] CSS Flexbox done
+    - [x] CSS Grid done
 - Started with a Adobe Premier Pro Course
+
+### <center>Day 21, 19 September 2020</center>
+### <center>Day 22, 20 September 2020</center>
+### <center>Day 23, 21 September 2020</center>
+### <center>Day 24, 22 September 2020</center>
+### <center>Day 25, 23 September 2020</center>
+### <center>Day 26, 24 September 2020</center>
+### <center>Day 27, 25 September 2020</center>
+### <center>Day 28, 26 September 2020</center>
+<div align="center">
+    
+Worked on and completed Premiere Pro 2020 Essential Training<br>
+![Premier Pro 2020 Essentials Training Certificate](https://github.com/nirbhayvashisht/my-quarantine/blob/master/Resources/CertificateOfCompletion_Premiere%20Pro%202020%20Essential%20Training.jpg)
+
+</div>
+
+- Wesbos' JavaScript30
+    - [x] JavaScript Drum Kit
+    - [x] CSS + JS Clock
+    - [x] Playing with CSS Variables and JS
+    - [x] Array Cardio Day 1
+    - [x] Flex Panels Image Gallery
+    - [x] Ajax Type ahead
+    - [x] Array Cardio Day 2
+    - [x] Fun With HTML5 Canvas
+    - [x] 14 Must Know Dev tools tricks
+ - Started with Wesbos' What the Flexbox
 
