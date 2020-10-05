@@ -111,3 +111,29 @@ Worked on and completed Premiere Pro 2020 Essential Training<br>
     - [x] 14 Must Know Dev tools tricks
  - Started with Wesbos' What the Flexbox
 
+### Day 29, 27 September 2020
+### Day 30, 28 September 2020
+### Day 31, 29 September 2020
+### Day 32, 30 September 2020
+
+- Created GitHub profile README
+- Wesbos' What the flexbox
+    - [x] Introduction to What the Flexbox
+    - [x] Introduction to Flexbox
+    - [x] Working with flexbox flex-direction
+    - [x] Wrapping elements with flexbox
+    - [x] Flexbox ordering
+    - [x] Flexbox Alignment and Centering with justify-content
+    - [x] Flexbox Alignment and Centering with align-items
+    - [x] Flexbox Alignment and Centering with align-content
+
+### Day 33, 1 October 2020
+### Day 34, 2 October 2020
+### Day 35, 3 October 2020
+- Organised and spoke at a [Hacktoberfest Virtual Meetup](https://organize.mlh.io/participants/events/4958-hacktoberfest-online-meetup-let-s-open-source) 
+
+### Day 36, 4 October 2020
+### Day 37, 5 October 2020
+- Wesbos' What the flexbox
+    - [x] Flexbox Alignment and Centering with align-self
+    - [x] Understanding flexbox sizing with flex property
